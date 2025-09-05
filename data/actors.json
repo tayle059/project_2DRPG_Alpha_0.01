@@ -1,0 +1,4 @@
+[
+  { "id": "hero", "name": "Hero", "hp": 120, "mp": 30, "spd": 12, "defense": 5, "is_player": true },
+  { "id": "slime", "name": "Slime", "hp": 60, "mp": 0, "spd": 6, "defense": 2, "is_player": false }
+]
