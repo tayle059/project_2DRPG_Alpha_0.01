@@ -1,0 +1,4 @@
+[
+  { "id": "attack", "name": "Attack", "power": 20, "target": "enemy_single" },
+  { "id": "cure",   "name": "Cure",   "power": -25, "target": "ally_single" }
+]
